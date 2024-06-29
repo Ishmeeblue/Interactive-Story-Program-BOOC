@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interactive Story Program BOOC/1.0.0": {
+        "runtime": {
+          "Interactive Story Program BOOC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interactive Story Program BOOC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

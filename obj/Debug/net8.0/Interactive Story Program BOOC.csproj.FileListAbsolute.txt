@@ -1,0 +1,14 @@
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\bin\Debug\net8.0\Interactive Story Program BOOC.exe
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\bin\Debug\net8.0\Interactive Story Program BOOC.deps.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\bin\Debug\net8.0\Interactive Story Program BOOC.runtimeconfig.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\bin\Debug\net8.0\Interactive Story Program BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\bin\Debug\net8.0\Interactive Story Program BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.AssemblyInfoInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.AssemblyInfo.cs
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.csproj.CoreCompileInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\refint\Interactive Story Program BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.genruntimeconfig.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\ref\Interactive Story Program BOOC.dll
