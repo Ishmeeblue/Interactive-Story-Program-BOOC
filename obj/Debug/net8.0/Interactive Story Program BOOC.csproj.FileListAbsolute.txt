@@ -12,3 +12,4 @@ C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Progra
 C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.pdb
 C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.genruntimeconfig.cache
 C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\ref\Interactive Story Program BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Interactive Story Program BOOC\Interactive Story Program BOOC\obj\Debug\net8.0\Interactive Story Program BOOC.sourcelink.json
